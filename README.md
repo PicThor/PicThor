@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PicThor
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning to be good
+- 🌱 I’m currently learning to be the best
 
 <!---
 PicThor/PicThor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
